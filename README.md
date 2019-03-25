@@ -1,2 +1,2 @@
 # Medical-Store
-Desktop application connected with DB
+Desktop application connected with DB(ADO.Net)
