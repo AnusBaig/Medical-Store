@@ -1,0 +1,95 @@
+c:\users\panthrax\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+c:\users\panthrax\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+c:\users\panthrax\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+c:\users\panthrax\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+c:\users\panthrax\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Login.resources
+c:\users\panthrax\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+c:\users\panthrax\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+c:\users\panthrax\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+c:\users\panthrax\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.MainWindow.resources
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.WindowMain.resources
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Dashboard.resources
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.LowerUserControl.resources
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Sales.resources
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Purcahse.resources
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Providers.resources
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Users.resources
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Stock.resources
+C:\Users\PANTHRAX\documents\visual studio 2015\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Newitem.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Dashboard.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Login.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.LowerUserControl.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.MainWindow.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Newitem.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Providers.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Purcahse.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Sales.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Stock.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Users.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.WindowMain.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Welcome.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Reports.resources
+C:\Users\PANTHRAX\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddNewUser.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojAssemblyReference.cache
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddNewUser.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Dashboard.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Login.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.LowerUserControl.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.MainWindow.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Newitem.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Providers.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Purcahse.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Reports.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Sales.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Stock.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Users.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Welcome.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.WindowMain.resources
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CopyComplete
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\anasb\Downloads\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+H:\p\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+H:\p\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+H:\p\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+H:\p\PointOfSale\PointOfSale\PointOfSale\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojAssemblyReference.cache
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddNewUser.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Dashboard.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Login.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.LowerUserControl.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.MainWindow.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Newitem.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Providers.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Purcahse.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Reports.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Sales.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Stock.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Users.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Welcome.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.WindowMain.resources
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CopyComplete
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+H:\p\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
